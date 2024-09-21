@@ -6,6 +6,10 @@ tracking as well.
 
 I use a lot of commented code during this walkthrough, so please bear with me. Most explanations are given with my commented code.
 
+# Watch the Rep Counter in Action! (image links to my youtube)
+
+[![GotoYoutube](https://github.com/Gavin-Thomas/KNES-381/blob/main/images/Youtubelink.png?raw=true)](https://www.youtube.com/watch?v=e-XoiDOFD5s "Video Title")
+
 ## Install and Import Necessary Libraries
 
 ### First I installed mediapipe, which is a general "detection" pre-built ML library
@@ -523,9 +527,5 @@ cv2.destroyAllWindows()
 ```
 - Okay, let's take a look and see if our tracker is there on the top left of the screen...
 ![tracker](https://github.com/Gavin-Thomas/KNES-381/blob/main/images/Gui_Setup.png?raw=true)
-
-# Watch the Rep Counter in Action! (image links to my youtube)
-
-[![GotoYoutube](https://github.com/Gavin-Thomas/KNES-381/blob/main/images/Youtubelink.png?raw=true)](https://www.youtube.com/watch?v=e-XoiDOFD5s "Video Title")
 
 
